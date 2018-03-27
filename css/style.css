@@ -1,4 +1,4 @@
-@import url("//cdn.web-fonts.ge/fonts/bpg-nino-mkhedruli-bold/css/bpg-nino-mkhedruli-bold.min.css");
+
 .header {
 	line-height: 110px;
 }
@@ -10,6 +10,7 @@
 }
 .link {
 	background-color: #F86908;
+
 
 }
 .font {
