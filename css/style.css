@@ -6,7 +6,7 @@
 	background-color: #fff !important;
 }
 .logo {
-	width: 100px;
+	width: 150px;
 }
 .link {
 	background-color: #F86908;
@@ -23,4 +23,11 @@
 .font-weight {
 	font-weight: bold !important;
 	color: black !important;
+}
+.banner {
+	background-image: url("../img/Artboard.jpg");
+	background-repeat: no-repeat;
+	height: 480px;
+	background-size: cover;
+	background-position: center;
 }
